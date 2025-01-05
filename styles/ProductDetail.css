@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  padding: 20px;
+}
+.container img {
+  max-width: 300px;
+}
+.container .details {
+  flex: 1;
+}
+.container .details h1 {
+  margin: 0;
+  font-size: 1.5rem;
+}
+.container .details p {
+  margin: 8px 0;
+}/*# sourceMappingURL=ProductDetail.css.map */
